@@ -1,0 +1,13 @@
+{
+  "name": "swig",
+  "homepage": "https://github.com/paularmstrong/swig",
+  "_release": "a53cfe7b9e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "gh-pages",
+    "commit": "a53cfe7b9e067e6b6c17d9ea41658e04323eb90f"
+  },
+  "_source": "git://github.com/paularmstrong/swig.git",
+  "_target": "gh-pages",
+  "_originalSource": "git://github.com/paularmstrong/swig.git"
+}
